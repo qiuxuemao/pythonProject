@@ -2,3 +2,5 @@
 
 
 print('git test')
+
+print('星期一')
